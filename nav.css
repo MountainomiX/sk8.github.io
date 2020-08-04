@@ -1,0 +1,13 @@
+.nav {
+    font-size: 30px;
+    
+    background-color: lightgray;
+    padding: 10px;
+    border: 2px solid grey;
+}
+
+@media print {
+    .screen-only {
+        display: none;
+    }
+}
